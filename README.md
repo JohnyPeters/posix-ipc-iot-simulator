@@ -156,3 +156,8 @@ Developed with Alexandre Ferreira for the Operating Systems course, BSc in
 Informatics Engineering, University of Coimbra. It predates the MSc work in my
 other repositories and is kept here as the systems-programming counterpart to
 them.
+
+## License
+
+Released under the MIT License — see [`LICENSE`](LICENSE). Copyright is shared
+with Alexandre Ferreira, who co-authored the project.
