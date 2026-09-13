@@ -1,0 +1,17 @@
+# Build output
+home_iot
+console
+sensor
+*.o
+*.out
+*.exe
+
+# Runtime artefacts
+log.txt
+
+# Editors / OS
+*.swp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

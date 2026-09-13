@@ -1,0 +1,11 @@
+# Normalise line endings in the repository; check out native on Windows.
+* text=auto
+
+*.c   text diff=cpp
+*.h   text diff=cpp
+*.md  text
+*.txt text
+Makefile text
+
+*.png binary
+*.pdf binary
